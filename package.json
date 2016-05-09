@@ -1,5 +1,5 @@
 {
-  "name": "react-input-slider",
+  "name": "@atis/react-input-slider",
   "version": "1.5.0",
   "description": "React input slider component",
   "main": "index.js",
